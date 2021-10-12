@@ -28,7 +28,7 @@ nbformat==4.4.0
 notebook==6.1.5
 numpy==1.14.0
 olefile==0.44
-opencv-python==3.4.0.12
+opencv-python==4.2.0.32
 pandas==0.22.0
 pandas-summary==0.0.41
 pandocfilters==1.4.2
